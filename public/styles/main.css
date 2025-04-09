@@ -1,7 +1,7 @@
 :root {
   --card-height: 65vh;
   --card-width: calc(var(--card-height) / 1.5);
-}
+}j
 
 body {
   min-height: 100vh;
